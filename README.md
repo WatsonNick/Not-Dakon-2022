@@ -47,7 +47,7 @@ You will need a C++ compiler installed on your system. This guide uses `g++`, wh
     *(Replace `main.cpp` with the name of your main source file if it's different.)*
 
 3.  **Run the game:**
-    Execute the compiled file to start playing.
+    Run .exe file to start playing.
 
     ```sh
     ./congklak
