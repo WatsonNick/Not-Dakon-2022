@@ -13,7 +13,7 @@ This game is a digital version of **Congklak** (also known as Dakon), a traditio
 
 ## ⚙️ How to Run the Game
    Run .exe file to start playing.
-    ```sh
+    ```
     Big Project Kelompok 4.exe
     ```
 
