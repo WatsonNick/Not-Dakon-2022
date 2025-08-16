@@ -32,7 +32,7 @@ You will need a C++ compiler installed on your system. This guide uses `g++`, wh
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/WatsonNick/your-repository-name.git
     cd your-repository-name
     ```
 
@@ -82,7 +82,7 @@ You will need a C++ compiler installed on your system. This guide uses `g++`, wh
 
 ## 👥 Authors
 
-  * **Nicolas Dwi Hardjoleksono** - [GitHub Username](https://www.google.com/search?q=https://github.com/WatsonNick)
+  * **Nicolas Dwi Hardjoleksono** - [GitHub Username](https://github.com/WatsonNick)
   * **Zufar Athoya Bahar**
   * **Yessica Thipandona**
   * **Aizar Hafizh Soejadi**
