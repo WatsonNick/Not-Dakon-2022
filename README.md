@@ -3,7 +3,7 @@
 # Not Dakon: A Reverse Congklak Game in C++
 
 A simple, terminal-based implementation of the traditional Indonesian board game, Congklak, created to practice fundamental programming concepts in C++.
-![Banner](image/Programming_Final_Project.jpg)
+![Banner](image/Programming Final Project.jpg)
 
 ## 📖 About The Project
 
