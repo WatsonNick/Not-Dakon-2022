@@ -11,46 +11,10 @@ This project was born from a desire to apply basic programming principles in a f
 
 This game is a digital version of **Congklak** (also known as Dakon), a traditional mancala-style board game popular in Southeast Asia.
 
-## ⚙️ Getting Started
-
-Follow these instructions to compile and run the project on your local machine.
-
-### Prerequisites
-
-You will need a C++ compiler installed on your system. This guide uses `g++`, which is part of the GNU Compiler Collection.
-
-  * **g++ Compiler**
+## ⚙️ How to Run the Game
+   Run .exe file to start playing.
     ```sh
-    # On Debian/Ubuntu
-    sudo apt-get install build-essential
-
-    # On Fedora/CentOS
-    sudo yum groupinstall "Development Tools"
-    ```
-
-### Compilation & Execution
-
-1.  **Clone the repository:**
-
-    ```sh
-    git clone https://github.com/WatsonNick/your-repository-name.git
-    cd your-repository-name
-    ```
-
-2.  **Compile the source code:**
-    Open your terminal and run the following command to compile the C++ files.
-
-    ```sh
-    g++ main.cpp -o congklak
-    ```
-
-    *(Replace `main.cpp` with the name of your main source file if it's different.)*
-
-3.  **Run the game:**
-    Run .exe file to start playing.
-
-    ```sh
-    ./congklak
+    Big Project Kelompok 4.exe
     ```
 
 ## 룰 How to Play
