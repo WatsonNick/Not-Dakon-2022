@@ -82,8 +82,10 @@ You will need a C++ compiler installed on your system. This guide uses `g++`, wh
 
 ## 👥 Authors
 
-  * **[Your Name]** - *[Your Role]* - [GitHub Username](https://www.google.com/search?q=https://github.com/your-username)
-  * **[Collaborator's Name]** - *[Their Role]* - [GitHub Username](https://www.google.com/search?q=https://github.com/their-username)
+  * **Nicolas Dwi Hardjoleksono** - [GitHub Username](https://www.google.com/search?q=https://github.com/WatsonNick)
+  * **Zufar Athoya Bahar**
+  * **Yessica Thipandona**
+  * **Aizar Hafizh Soejadi**
 
 ## 📄 License
 
